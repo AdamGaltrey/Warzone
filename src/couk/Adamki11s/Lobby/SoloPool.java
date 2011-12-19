@@ -55,7 +55,7 @@ public class SoloPool {
 		return pool.size();
 	}
 
-	private int lobbyTaskID = 463965923, index, toc;
+	private int lobbyTaskID = 4636923, index, toc;
 	private Player searcher;
 
 	Player p;
